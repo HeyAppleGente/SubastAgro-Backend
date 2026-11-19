@@ -1,0 +1,1 @@
+"""Módulo adjudications de SubastAgro."""

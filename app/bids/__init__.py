@@ -1,0 +1,1 @@
+"""Módulo bids de SubastAgro."""
